@@ -14,7 +14,7 @@ Into the NEW FOLDER, clone this repository --> https://github.com/OpenClassrooms
 
 This repository is the project's FRONTEND.
 
-Once cloned, from the root of the frontend's folder
+Once cloned, from the root of the frontend's folder :
 
 Open a terminal (linux/mac) or Powershell (Windows) and
 
