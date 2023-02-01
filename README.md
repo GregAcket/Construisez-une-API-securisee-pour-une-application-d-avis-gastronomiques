@@ -8,7 +8,7 @@ My recommendations:
 
 Create a NEW FOLDER
 
-### For the frontend ###
+## For the frontend ##
 
 Into the NEW FOLDER, clone this repository --> https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6
 
@@ -24,7 +24,7 @@ Once installed, to launch the frontend
 
 run `npm start`
 
-### For the backend ###
+## For the backend ##
 
 Into the NEW FOLDER, clone my repository.
 
@@ -51,12 +51,12 @@ Server will listen on port 3000 by default, you can change it by adding `PORT = 
 
 It will automatically connect to your mongoDB database too.
 
-### To open the app ###
+## To open the app ##
 
 Open your favorite browser and type `localhost:4200` in the address bar
 
 
-### To signup the app ###
+## To signup the app ##
 
 Fill the e-mail field with an e-mail address schema (John@gmail.com e.g.)
 
