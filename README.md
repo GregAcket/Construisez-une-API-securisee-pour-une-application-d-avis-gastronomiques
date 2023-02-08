@@ -1,6 +1,6 @@
 # Hot Takes #
 
-This is the Project 5 of the Web Developer path.
+This is the Project 6 of the Web Developer path.
 
 ## How to make it work ##
 
