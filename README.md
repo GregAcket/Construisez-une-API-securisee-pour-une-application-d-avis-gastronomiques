@@ -53,7 +53,7 @@ It will automatically connect to your mongoDB database too.
 
 ## To open the app ##
 
-Open your favorite browser and type `localhost:4200` in the address bar
+Open your favorite browser and type [http://localhost:4200](http://localhost:4200) in the address bar
 
 
 ## To signup the app ##
